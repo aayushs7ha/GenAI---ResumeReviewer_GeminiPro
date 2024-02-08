@@ -15,7 +15,7 @@ Feedback Generation: Generates feedback for improving resumes based on identifie
 User-Friendly Interface: Offers an intuitive interface for uploading resumes, entering job descriptions, and viewing evaluation results.
 Installation:
 
-Clone the repository from GitHub: git clone https://github.com/your-username/gemini-ai-resume-reviewer.git
+Clone the repository from GitHub: git clone https://github.com/your-username/GenAI-ResumeReviewer_GeminiPro.git
 Install dependencies: pip install -r requirements.txt
 Set up environment variables:
 GOOGLE_API_KEY: Your Google API key for accessing the Generative AI model.
