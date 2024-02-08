@@ -42,7 +42,7 @@ Credits:
 Gemini Pro model by Google Generative AI
 Streamlit for the web application framework
 Contact:
-For questions or feedback, please contact your-email@example.com.
+For questions or feedback, please contact aayush_sinha@live.com
 
 Acknowledgments:
 We would like to thank the developers and contributors of the libraries and frameworks used in this project. Their efforts have made this application possible.
